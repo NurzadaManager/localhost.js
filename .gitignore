@@ -1,0 +1,5 @@
+#env [required]
+.env
+#pkg [required]
+node_modules
+localhost_modules

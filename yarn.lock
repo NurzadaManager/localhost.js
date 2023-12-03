@@ -1,0 +1,13 @@
+# THIS IS FILE LOCKED BY YARNPKG
+#version 1.0 
+#dependencies and more privated by localhost.pkg
+
+dependencies:
+private: true
+
+allprivate: true
+
+lock:
+/node_modules
+
+private_file: true
